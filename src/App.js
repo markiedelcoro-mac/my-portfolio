@@ -245,6 +245,12 @@ export default function Portfolio() {
           <h2 className="text-4xl font-bold mb-12 text-center">Education</h2>
           <div className="bg-slate-800 rounded-xl p-8 border border-blue-500/30 max-w-3xl mx-auto">
             <h3 className="text-2xl font-bold text-blue-400 mb-2">
+              Masters Degree
+            </h3>
+            <p className="text-xl text-gray-300 mb-2">Major in Business Administration</p>
+            <p className="text-gray-400 mb-2">Cebu Technological University</p>
+            <p className="text-gray-500">2025 - Present</p>
+			<h3 className="text-2xl font-bold text-green-400 mb-2">
               Bachelor of Science in Commerce
             </h3>
             <p className="text-xl text-gray-300 mb-2">Major in Business Administration</p>
