@@ -168,6 +168,53 @@ export default function Portfolio() {
               </div>
             </div>
 
+           {/* R&D Head */}
+            <div className="bg-slate-800 rounded-xl p-8 border border-red-500/30 hover:border-red-500 transition-all duration-300">
+              <div className="flex items-start gap-4">
+                <div className="bg-red-600 p-3 rounded-lg">
+                  <Briefcase className="w-6 h-6" />
+                </div>
+                <div className="flex-1">
+                  <h3 className="text-2xl font-bold text-orange-400 mb-2">R&D Head</h3>
+                  <p className="text-gray-400 mb-4">January 2018 - February 2024</p>
+                  <ul className="space-y-2 text-gray-300">
+                    <li className="flex items-start gap-2">
+                      <span className="text-red-400 mt-1">▸</span>
+                      <span>Conduct research on emerging technologies</span>
+                    </li>
+                    <li className="flex items-start gap-2">
+                      <span className="text-red-400 mt-1">▸</span>
+                      <span>Develop prototypes and proof-of-concept projects</span>
+                    </li>
+                    <li className="flex items-start gap-2">
+                      <span className="text-red-400 mt-1">▸</span>
+                      <span>Design, develop, test, and deploy software solutions</span>
+                    </li>
+                    <li className="flex items-start gap-2">
+                      <span className="text-red-400 mt-1">▸</span>
+                      <span>Integrate new technologies into existing products.</span>
+                    </li>
+                    <li className="flex items-start gap-2">
+                      <span className="text-red-400 mt-1">▸</span>
+                      <span>Optimize software performance</span>
+                    </li>
+                      <li className="flex items-start gap-2">
+                      <span className="text-red-400 mt-1">▸</span>
+                      <span>Work with product managers and stakeholders to understand requirements</span>
+                    </li>
+                                        <li className="flex items-start gap-2">
+                      <span className="text-red-400 mt-1">▸</span>
+                      <span>Present research findings and project updates</span>
+                    </li>
+                    <li className="flex items-start gap-2">
+                      <span className="text-red-400 mt-1">▸</span>
+                      <span>Stay current with advancements in software engineering</span>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
             {/* Accounting Head */}
             <div className="bg-slate-800 rounded-xl p-8 border border-green-500/30 hover:border-green-500 transition-all duration-300">
               <div className="flex items-start gap-4">
