@@ -340,7 +340,7 @@ export default function Portfolio() {
             </a>
           </div>
           <p className="text-gray-400 mt-8">
-            📍 Unit 1 Oppra Kalunasan, Cebu City
+            📍 Unit 1 Oppra Bry. Kalunasan, Cebu City
           </p>
         </div>
       </section>
