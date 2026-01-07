@@ -196,15 +196,7 @@ export default function Portfolio() {
                     </li>
                     <li className="flex items-start gap-2">
                       <span className="text-orange-400 mt-1">▸</span>
-                      <span>Optimize software performance</span>
-                    </li>
-                      <li className="flex items-start gap-2">
-                      <span className="text-orange-400 mt-1">▸</span>
                       <span>Work with product managers and stakeholders to understand requirements</span>
-                    </li>
-                                        <li className="flex items-start gap-2">
-                      <span className="text-orange-400 mt-1">▸</span>
-                      <span>Present research findings and project updates</span>
                     </li>
                     <li className="flex items-start gap-2">
                       <span className="text-orange-400 mt-1">▸</span>
